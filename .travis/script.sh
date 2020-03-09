@@ -16,9 +16,10 @@ wrapped_run() {
     ("${script}" "${arg}" >& "${log}" ; tail -300 "${log}")
 }
 
-#wrapped_run plugin
+wrapped_run plugin
 #wrapped_run python python2.7.17
 #wrapped_run python python3.7.6
 #wrapped_run python python3.8.1
 #wrapped_run python scipy
-wrapped_run python xonsh
+wrapped_run python xonsh-release
+wrapped_run python xonsh-master

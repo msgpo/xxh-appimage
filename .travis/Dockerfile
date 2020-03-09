@@ -7,7 +7,7 @@ ENV ARCH="${Arch}"                                                             \
 
 RUN yum -y install bzip2-devel fuse-sshfs gdbm-devel ncurses-devel             \
                    readline-devel sqlite-devel openssl-devel symlinks tk-devel \
-                   xz-devel wget
+                   xz-devel wget git
 
 COPY . /work/.travis
 WORKDIR /work
