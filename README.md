@@ -5,3 +5,7 @@ Download:
 [![Xonsh](https://img.shields.io/badge/xonsh.AppImage_master-x86_64-yellow.svg)](https://github.com/xxh/linuxdeploy-plugin-python/releases/download/continuous/xonsh-master-x86_64.AppImage)
 
 Note! Xonsh AppImage build from master hasn't optimisations and more slower than release and used only for testing.
+
+## Thanks
+* @niess for https://github.com/niess/linuxdeploy-plugin-python/
+* @probonopd for https://github.com/AppImage
