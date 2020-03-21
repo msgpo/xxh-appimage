@@ -23,3 +23,4 @@ wrapped_run plugin
 #wrapped_run python scipy
 wrapped_run python xonsh-release
 wrapped_run python xonsh-master
+wrapped_run python xxh-release
