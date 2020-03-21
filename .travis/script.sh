@@ -17,10 +17,6 @@ wrapped_run() {
 }
 
 wrapped_run plugin
-#wrapped_run python python2.7.17
-#wrapped_run python python3.7.6
-#wrapped_run python python3.8.1
-#wrapped_run python scipy
 wrapped_run python xonsh-release
 wrapped_run python xonsh-master
 wrapped_run python xxh-release

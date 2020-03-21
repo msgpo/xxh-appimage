@@ -1,2 +1,0 @@
-export PYTHON_VERSION="2.7.17"
-export PIP_REQUIREMENTS=
